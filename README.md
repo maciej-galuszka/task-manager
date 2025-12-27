@@ -2,7 +2,7 @@
 
 **Task Tracker v3** – a modern, minimalistic task management application built with **React and TypeScript**.
 
-This is the third iteration of the project, refactored from a React + JavaScript codebase into a fully typed **React + TypeScript** application, improving type safety, maintainability, and overall code quality.
+This is the final version of the project, refactored from a React + JavaScript codebase into a fully typed **React + TypeScript** application, improving type safety, maintainability, and overall code quality.
 
 The app focuses on clean architecture, predictable state management, and scalable component design, while preserving a simple and intuitive user experience.
 
