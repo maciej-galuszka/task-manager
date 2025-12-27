@@ -10,13 +10,13 @@ The app focuses on clean architecture, predictable state management, and scalabl
 
 ## 🚀 Features  
 
-✅ Add new tasks with description, due date, and priority  
-✏️ Mark tasks as done / undone  
-🗑️ Delete single tasks  
-🧹 Clear all tasks at once  
-📊 Track total and completed task statistics  
-↕️ Sort tasks by input order, finished status, priority, or date  
-💾 Persistent storage using `localStorage`  
+- ✅ Add new tasks with description, due date, and priority  
+- ✏️ Mark tasks as done / undone  
+- 🗑️ Delete single tasks  
+- 🧹 Clear all tasks at once  
+- 📊 Track total and completed task statistics  
+- ↕️ Sort tasks by input order, finished status, priority, or date  
+- 💾 Persistent storage using `localStorage`  
 
 ---
 
