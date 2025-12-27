@@ -83,4 +83,4 @@ http://localhost:5173/
 
 🌐 Live Demo
 
-https://maciej-galuszka.github.io/ts-task-tracker/
+https://maciej-galuszka.github.io/task-manager/
