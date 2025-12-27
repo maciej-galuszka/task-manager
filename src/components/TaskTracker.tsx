@@ -25,7 +25,7 @@ export function TaskTracker({
 }: TaskTrackerProps) {
   return (
     <div className="container">
-      <h1>Task tracker</h1>
+      <h1>Task manager</h1>
       <TaskForm onAddTask={onAddTask} />
       <TaskList
         onDeleteTask={onDeleteTask}
